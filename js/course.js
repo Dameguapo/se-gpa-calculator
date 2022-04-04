@@ -6,7 +6,7 @@ https://github.com/nuwan94/se-gpa-calculator
 */
 
 
-var courseName = "Software Engineering - University of Kelaniya";
+var courseName = "ITC-4940" ;
 
 var courseUnits = [{
     year: '1',
